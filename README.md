@@ -1,2 +1,2 @@
-# git_test
-Hello World from VScode
+# odin_recipes
+This project will demonstrates simple web pages about recipes.
